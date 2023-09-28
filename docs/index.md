@@ -14,16 +14,16 @@ The organization evolves as the project and conference evolves, please file issu
 
 Today, there are two large scale event happening annually in Ubuntu community. One is Ubuntu Summit which is largely driven by people at Canonical(The company behind Ubuntu) and some from Ubuntu community and gathers people from all around the world. The other one is UbuCon (Ubuntu Conference). Unlike Ubuntu Summit, UbuCons are fully drived by the community rather Canonical. It is also usually organized for specific continent, country or region which makes local communities key stake holders of the event.
 
-Today, there are many UbuCons organized annually in diverse region:
+There are many UbuCons organized annually in diverse region:
 
 - By continent
-    - UbuCon Asia (Since 2021)
-    - UbuCon Europe 
-    - UbuCon LA (Latin America)
-    - UbuCon @ SCALE 
+    - UbuCon Asia (Since 2021) - Organized by multiple LoCos in Asia
+    - UbuCon Europe - Organized by multiple LoCos in Europe
+    - UbuCon LA (Latin America) - Organized by multiple LoCos in Latin America
+    - UbuCon @ SCALE - Organized by multiple LoCos in US
 - By Country or region
-    - UbuCon Korea (Since 2023)
-    - UbuCon Portugal
+    - UbuCon Korea (Since 2023) - Organized by Korean LoCo
+    - UbuCon Portugal - Organized by Portugal LoCo
 
 You may visit [Ubucon page on Ubuntu Wiki](https://wiki.ubuntu.com/Ubucon) to see past UbuCons
 
