@@ -1,4 +1,6 @@
 # Home
+
+[![Deploy Website](https://github.com/ubucon-asia/organizer-guide/actions/workflows/deploy.yml/badge.svg)](https://github.com/ubucon-asia/organizer-guide/actions/workflows/deploy.yml)
 ## UbuCon Asia organizer guide
 Welcome to UbuCon Asia organizer guide documentation.
 
