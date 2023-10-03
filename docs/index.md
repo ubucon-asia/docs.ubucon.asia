@@ -31,6 +31,11 @@ You may visit [Ubucon page on Ubuntu Wiki](https://wiki.ubuntu.com/Ubucon) to se
 
 UbuCon Asia is an event organized by Ubuntu Communities in Asia. It’s for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies. It is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.
 
-The first UbuCon Asia was held in 2021 as a fully virtual event (due to COVID-19). Then we switched to in-person (or hybrid with some live streams) to gather Ubuntu folks around Asia in-person, face-to-face.
+The first UbuCon Asia was held in 2021 as a fully virtual event (due to COVID-19). Then we switched to in-person (or hybrid with some live streams) to gather Ubuntu folks around Asia in-person, face-to-face. Every year the event is held in a different country to engage and outreach with different local community, organized by a new team. Local teams bid to host the conference in their city about a year in advance.
+
+The event is usually about 300 participant scale and runs for about 3 days including social events (such as conference dinner and group tour). First 2 days are conference schedules with talks, workshops, panel discussions, BoFs and so on. Conference contents are live streamed online and also recorded for those who were not able to join in-person or who missed session due to other session or program. Last day (which is day 3) is group tour with small scale - usually about 10 to 20 participants.
+
+Attendees are very diverse: Mostly Software engineer, DevOps Engineer or System engineer from a wide range of backgrounds. But also frequently see Data/AI/ML Engineer, Community/DevRel Manager, corporate executives, hobbyists, students, and academics. The atmosphere is rather relaxed and informal, with attendees socialising together, but also working productively on their laptops.
+
 
 List of UbuCon Asia by year can be found [here.](https://www.ubucon.asia/events/)
