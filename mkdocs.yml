@@ -17,6 +17,7 @@ nav:
     - Home:
       - index.md
       - overview.md
+      - teams_roles.md
 
 plugins:
     - search
