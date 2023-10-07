@@ -18,9 +18,11 @@ Group tour is usually organized next day of Day 2 with 15~25 participants scale.
 
 ## Travel grants
 
-Travel grant is one of the largest parts that takes event budget plan. Through travel grant, the conference usually covers flight expenses of overseas speakers.
+Travel grant is one of the largest parts that takes event budget plan. Through travel grant, the conference usually covers flight expenses of overseas speakers. The funding is usually provided as reimbursement after the event with proof of purchase collected from beneficaries rather flights booked by organizing team or transfer before the event.
 
 ## Accommodation
+
+We also provide accomodations for speakers and organizers. We usually try to provide low-cost shared rooms which could be university dormitory rooms when available or some other cheap hotels nearby the venue. Usually local team acquires rooms about at least 2~3 month before the event than assign it to speakers or organizers who need.
 
 ## Catering
 
