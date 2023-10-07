@@ -36,4 +36,8 @@ Funding is mostly raised with sponsorships. Some part is also raised with donati
 ## Sponsorship
 While Canonical usually joins us as sponsor with top-tier sponsorship package, Usually it's not enough with just funds we got from Canonical. Thus, we also reach out companies who would be interested to sponsor us and promote them through the community.
 
+As we don't have any legal entity or fiscal host dedicated for our event, Currently we rely on local team to hold and manage the event fund. For now, we require local team to bring their own fiscal host with legal status who can sign on the sponsorship agreements on behalf the organizing team, hold the raised funds and make expenses.
+
+Sponsorship is not donation, Sponsors usually provides us funds to gain some marketing benefits for gaining awareness among the community. Depending on sponsorship packages, We usually provide wide range of benefits: Such as logo exposure, sponsor session slot, sponsor exhibition booth and much more.
+
 ## Infrastructure & Equipments
