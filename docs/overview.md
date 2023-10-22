@@ -44,6 +44,7 @@ Sponsorship is not donation, Sponsors usually provides us funds to gain some mar
 ## IT Infrastructure & Equipments
 
 Since most of sessions involves presenting slides to many audiences. At least, We will need these equipments for each rooms:
+
 - Beam projector with screen for projection or large TV display that speakers(presentors) can connect their laptop. 
 - Microphones and speaker(audio)
 - Stable Internet connection: Either WiFi or Wired(ethernet) - Should be available at least for speakers and event staff
