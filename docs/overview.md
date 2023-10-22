@@ -33,6 +33,7 @@ Lunch is usually provided. Details could be vary by epending on environment and 
 Total budget amount is usually around between 30,000 USD and 45,000 USD including travel grant. Exact total budget amount is vary by the host city and country.
 
 Funding is mostly raised with sponsorships. Some part is also raised with donations from individuals and ticket fee income. While most expenses are covered by funds raised with sponsorships, many sponsors don’t deposite sponsorship fee until late in the process. (There are also some sponsors deposit fees after the event due to their own policy)
+
 ## Sponsorship
 While Canonical usually joins us as sponsor with top-tier sponsorship package, Usually it's not enough with just funds we got from Canonical. Thus, we also reach out companies who would be interested to sponsor us and promote them through the community.
 
@@ -40,4 +41,10 @@ As we don't have any legal entity or fiscal host dedicated for our event, Curren
 
 Sponsorship is not donation, Sponsors usually provides us funds to gain some marketing benefits for gaining awareness among the community. Depending on sponsorship packages, We usually provide wide range of benefits: Such as logo exposure, sponsor session slot, sponsor exhibition booth and much more.
 
-## Infrastructure & Equipments
+## IT Infrastructure & Equipments
+
+Since most of sessions involves presenting slides to many audiences. At least, We will need these equipments for each rooms:
+- Beam projector with screen for projection or large TV display that speakers(presentors) can connect their laptop. 
+- Microphones and speaker(audio)
+- Stable Internet connection: Either WiFi or Wired(ethernet) - Should be available at least for speakers and event staff
+- A lot of power sockets that people can plug their laptop or other electronics for charging  
