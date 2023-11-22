@@ -11,8 +11,8 @@ Local team is usually consisted with people from the region where event will hap
 
 ## Roles
 
-### General(Coordination)
-
+### Steering(Coordination)
+Coordinate the whole organizing team in general. Usually chair bi-weekly meeting, assign tasks to specific team or person. Help sync informations and updats across all organizers. Organizers with this role usually also act as main contact point of the organizing team including both global and local team.
 ### Sponsorship & Finances
 
 ### Content
