@@ -8,7 +8,8 @@ site_author: UbuCon Asia Organizing team
 repo_url: https://github.com/ubucon-asia/organizer-guide
 repo_name: ubucon-asia/organizer-guide
 contact_email: contact@ubuntu.com
-copyright: Copyright &copy; 2023-Present UbuCon Asia Organizing team (contact at ubucon.asia)
+copyright: Copyright &copy; 2023-Present UbuCon Asia Committee (contact at ubucon.asia)
+copyright_details: Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 theme:
     name: ubuntu
