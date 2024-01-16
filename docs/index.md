@@ -1,12 +1,10 @@
 # Home
 
 [![Deploy Website](https://github.com/ubucon-asia/organizer-guide/actions/workflows/deploy.yml/badge.svg)](https://github.com/ubucon-asia/organizer-guide/actions/workflows/deploy.yml)
-## UbuCon Asia organizer guide
-Welcome to UbuCon Asia organizer guide documentation.
+## UbuCon Asia Documentation
+Welcome to UbuCon Asia Documentation.
 
-If you're new to UbuCon Asia team who would like to learn how the event is organized and its format, or existing member looking for some reference, This is the place where you can find most of information you need.
-
-The organization evolves as the project and conference evolves, please file issues and pull requests to update this documentation if you find missing information and/or inaccuracies.
+This website provides general information on UbuCon Asia - Such as event format, content, links to websites
 
 ## About UbuCon & UbuCon Asia
 
