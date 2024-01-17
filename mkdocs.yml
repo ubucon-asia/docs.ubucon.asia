@@ -10,7 +10,7 @@ repo_name: ubucon-asia/docs.ubucon.asia
 contact_email: contact@ubuntu.com
 copyright: Copyright &copy; 2023-Present UbuCon Asia Committee (contact at ubucon.asia)
 copyright_details: Ubuntu and Canonical are registered trademarks of Canonical Ltd.
-edit_uri: /blob/main/docs/
+edit_uri: https://github.com/ubucon-asia/docs.ubucon.asia/blob/main/docs/
 
 theme:
     name: ubuntu
