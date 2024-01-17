@@ -20,6 +20,7 @@ nav:
       - index.md
       - general/chat.md
     - Organizer:
+      - organizer/index.md
       - organizer/overview.md
       - organizer/teams_roles.md
 
