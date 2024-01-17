@@ -1,7 +1,7 @@
 site_name: UbuCon Asia Documentations
 site_name_short: UbuCon Asia Docs
-site_url: http://www.ubucon.asia/
-site_base_url: /docs/
+site_url: http://www.ubucon.asia
+site_base_url: /
 site_description: General and detailed documentation and guidance on UbuCon Asia
 site_author: UbuCon Asia Committee
 
