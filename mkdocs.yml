@@ -19,6 +19,8 @@ nav:
     - Home:
       - index.md
       - general/chat.md
+    - Travel support:
+      - travel-support/index.md
     - Organizer:
       - organizer/index.md
       - organizer/overview.md
