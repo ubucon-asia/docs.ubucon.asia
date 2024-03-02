@@ -82,3 +82,12 @@ Please enter a number from the list below:
 
 # Any comments or questions to the committee?
 ```
+
+Once application is prepared, please submit your application by filing a bug on launchpad. [You may start filing a bug by clicking a link here.](https://bugs.launchpad.net/ubucon-asia-travel-support/+filebug)
+
+- For `Summary` field, enter `[Travel grant - UbuCon Asia <Year>] - <Your name>`. (e.g. `[Travel grant - UbuCon Asia 2024] - John Doe`)
+- For `Further information` field, copy and paste the full application text you have prepared before.
+- For `This bug contains information that is:` option, Make sure to choose `Private`
+- To add attachment, Click `Extra options`. Then choose a file to attach. Unfortunately, Launchpad seem to be support only single attachment for each post(a bug description or a comment on bug). To attach multiple attachments, you may add multiple comments with files attached.
+
+Once you submit your application by filing a bug, The committee will check and review your application. Committee staff may leave comments to ask questions about your application or to provide updates on your application. The committee will also provide review result (either approved or rejected) by leaving a comment. While leaving comments does gives you some email notifications, you'll still need to follow up on such notifications and updates.  
