@@ -10,7 +10,10 @@ The committee provide accomodation during the event period. In case the committe
 
 ## Applying for travel grant
 To apply for travel grant, You'll need to fill in the application form below. You'll also need to attach following files for review.
-> The form below stil WIP
+
+- If you're applying for round trip funding: Proof of expense estimation such as travel pricing searches or invoice if you already booked one.
+- If you're applying for accomodation and need to book one by yourself: Proof of expense estimation such as travel pricing searches or invoice if you already booked one.
+
 ```
 # Profile
 ## Name(Full name as stated in your passport or national ID)
@@ -37,6 +40,45 @@ Please choose one of: Yes, No
 ## Are there anything you would like to achieve through this year's UbuCon Asia?
 
 # Travel grant for round trip
+## Do you need travel grant for round trip?
+Enter Yes or No: 
+ 
+## Type of transportation (such as Flight, Train, Ferry, Express Bus or other)
 
+## Your travel itinerary
+(e.g. Arrival: In HAN from ICN at August 30th, Departure: From HAN to ICN at September 3rd)
 
+## Estimated total expense in USD
+
+## Please attach proof for estimated amount above (Such as travel pricing searches, Or an Inoice if you already booked one)
+What is the name of file you've attached?: 
+
+## Level of needs for round trip funding
+Please enter a number from the list below:
+1. Without this travel grant, I will never be able to attend this event in-person. 
+2. Without this travel grant, I will have to make financial sacrifices to attend in-person. 
+3. Without this travel grant, It will be inconvenient for me, But no problem to attend. 
+4. I will be stll able to join without this travel grant, As I can raise travel funding in other ways.
+
+# Travel grant for accomodation
+## Do you need travel grant for accomodation?
+Enter Yes or No: 
+
+## Your check-in and check-out schedule
+(e.g. Check-in at Aug 30, Check-out at Sep 3)
+
+## In case you'll need to book accomodation by yourself, Enter estimated total expense in USD
+
+## In case you'll need to book accomodation by yourself, Please attach proof for estimated amount above
+(Such as travel pricing searches, Or an Inoice if you already booked one)
+What is the name of file you've attached?: 
+
+## Level of needs for accomodation support
+Please enter a number from the list below:
+1. Without this travel grant, I will never be able to attend this event in-person. 
+2. Without this travel grant, I will have to make financial sacrifices to attend in-person. 
+3. Without this travel grant, It will be inconvenient for me, But no problem to attend. 
+4. I will be stll able to join without this travel grant, As I can raise travel funding in other ways.
+
+# Any comments or questions to the committee?
 ```
