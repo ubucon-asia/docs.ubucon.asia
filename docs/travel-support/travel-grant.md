@@ -8,6 +8,15 @@ The committee provide funding for round trip between your home and hosting city(
 ## Accomodations support
 The committee provide accomodation during the event period. In case the committee have secured large block of accomodations in advance, you will be assigned to room and receive confirmation for your accomodation along with some instructions. There could be also cases the committe did not secured rooms before. In that case, the committee will ask you to your book accomodation with your own money then provide reimbursement after the event.
 
+## Grant priority
+Since our budget is always limited, We won't able to approve everyone applied for. Thus, we'll be approving applicants with consideration on level of needs the applicant stated in the application and also following priority order.
+
+1. Keynote/Talk/Workshop Speakers* & Organizers
+2. Official Ubuntu Members, BoF Moderators(Those who submitted BoF proposal then got selected)*, On-site Volunteers with full time commitment
+3. Attendees, Lightning talk speakers(In case we accept proposals for Lighnting talks earlier in advance)
+
+> For sessions with multiple speakers, Up to 2 speakers in same session will be eligible for this order
+
 ## Applying for travel grant
 To apply for travel grant, You'll need to fill in the application form below. You'll also need to attach following files for review.
 
