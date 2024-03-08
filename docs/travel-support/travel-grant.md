@@ -12,10 +12,10 @@ The committee provide accomodation during the event period. In case the committe
 Since our budget is always limited, We won't able to approve everyone applied for. Thus, we'll be approving applicants with consideration on level of needs the applicant stated in the application and also following priority order.
 
 1. Keynote/Talk/Workshop Speakers* & Organizers
-2. Official Ubuntu Members, BoF Moderators(Those who submitted BoF proposal then got selected)*, On-site Volunteers with full time commitment
+2. Official Ubuntu Members, BoF Moderators(Those who submitted BoF proposal then got selected)*, On-site Volunteers with full time commitment(Selected in advance)
 3. Attendees, Lightning talk speakers(In case we accept proposals for Lighnting talks earlier in advance)
 
-> For sessions with multiple speakers, Up to 2 speakers in same session will be eligible for this order
+> - *For sessions with multiple speakers, Up to 2 speakers in same session will be eligible for this order
 
 ## Applying for travel grant
 To apply for travel grant, You'll need to fill in the application form below. You'll also need to attach following files for review.
@@ -100,3 +100,6 @@ Once application is prepared, please submit your application by filing a bug on 
 - To add attachment, Click `Extra options`. Then choose a file to attach. Unfortunately, Launchpad seem to be support only single attachment for each post(a bug description or a comment on bug). To attach multiple attachments, you may add multiple comments with files attached.
 
 Once you submit your application by filing a bug, The committee will check and review your application. Committee staff may leave comments to ask questions about your application or to provide updates on your application. The committee will also provide review result (either approved or rejected) by leaving a comment. While leaving comments does gives you some email notifications, you'll still need to follow up on such notifications and updates.  
+
+## Claiming your expense (Submitting reimbursement) after the event
+WIP
