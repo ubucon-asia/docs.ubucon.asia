@@ -4,4 +4,4 @@
 
 A Documentation website that provides guidance for organizing UbuCon Asia.
 
-Visit https://www.ubucon.asia/organizer-guide/ to see the live website. 
+Visit https://docs.ubucon.asia/ to see the live website. 
