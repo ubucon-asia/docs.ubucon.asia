@@ -28,7 +28,7 @@ We also provide accomodations for speakers and organizers. We usually try to pro
 
 Catering is optional, But if possible the conference provides catering for participants. Depending on budgets and funding, We try to provide at least for speakers and staff first than if possible, we also try to provide catering for participants.
 
-Lunch is usually provided. Details could be vary by epending on environment and venue policy, It could be either meal boxes for each person or fingerfood buffet catering that would allow participants to pick foods they would like.
+Lunch is usually provided. Details could be vary by depending on environment and venue policy, It could be either meal boxes for each person or fingerfood buffet catering that would allow participants to pick foods they would like.
 ## Budget
 Total budget amount is usually around between 30,000 USD and 45,000 USD including travel grant. Exact total budget amount is vary by the host city and country.
 
