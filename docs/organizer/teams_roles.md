@@ -13,9 +13,18 @@ Local team is usually consisted with people from the region where event will hap
 
 ### Steering(Coordination)
 Coordinate the whole organizing team in general. Usually chair bi-weekly meeting, assign tasks to specific team or person. Help sync informations and updats across all organizers. Organizers with this role usually also act as main contact point of the organizing team including both global and local team.
+
 ### Sponsorship & Finances
+People in Sponsorship & Financial role are responsible for raising fund for organizing the event and plan event expenses. These includes but not limited to: Designing standard sponsorship programs(sponsorship tiers, packages, pricing), Reaching out potential companies or organizations who might sponsor our event, Make deals and handle sponsorship fee payment process, Draft budget plan and decide where to spend.
 
 ### Content
+People with this role are in charge of making the conference programs schedules. This includes but not limited to:
+- Call for propopsal preparation: Drafting Call for proposal announcement, Preparing proposal submission form, Decide session types(such as talks, workshops, BoFs) and duration for each session types(30min, 90min, 50min), Estimate how many session slots will be available based on sessioin types and available rooms.
+- Gathering speakers: Announcing Call for proposals, Reach out potential speakers, Providing some advises for potential speakers heditating to submit proposals.
+- Review and judge proposals: Review and give scores to submitted proposals from potential speakers, Communicate with proposal submitters whose proposal can be improved with feedbacks, Decide which proposals to accept, reject or pend for backup.
+- Schedule sessions on timetable: Draft conference timetable based on accepted proposals.
+- Get speakers prepared to talk: Communicate with accepted speakers to notify about event schedule, what they will need to prepare for presentation.
+- Moderate tracks: If possible, people from content team are also responsible for moderating tracks on-site.
 
 ### Marketing
 
