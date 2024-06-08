@@ -21,6 +21,7 @@ Usually, Both Global team and Local team work together to brings sponsors and ma
 
 ### Content
 People with this role are in charge of making the conference programs schedules. This includes but not limited to:
+
     - Call for propopsal preparation: Drafting Call for proposal announcement, Preparing proposal submission form, Decide session types(such as talks, workshops, BoFs) and duration for each session types(30min, 90min, 50min), Estimate how many session slots will be available based on sessioin types and available rooms.
     - Gathering speakers: Announcing Call for proposals, Reach out potential speakers, Providing some advises for potential speakers heditating to submit proposals.
     - Review and judge proposals: Review and give scores to submitted proposals from potential speakers, Communicate with proposal submitters whose proposal can be improved with feedbacks, Decide which proposals to accept, reject or pend for backup.
@@ -30,6 +31,7 @@ People with this role are in charge of making the conference programs schedules.
 
 ### Marketing
 People with marketing role usually work together to spread out the event and bring large number of audiences to the event on-site. Their activities includes but not limited to:
+
     - Define target audience for promoting the event of the year
     - Post announcement and press release on UbuCon Asia and Ubuntu Discourse.
     - Post promotional content across UbuCon Asia's social media and also local team's social media.
@@ -40,11 +42,18 @@ People with marketing role usually work together to spread out the event and bri
     - Design marketing materials such as event logo of the year, swags(stickers, t-shirts), on-site banners and more.
 
 ### Video
+People working this role are in charge of video related stuff of the event which includes:
+
+    - Prepare equipment setup for video recording and live straming (such as video camera, microphones, audio mixer, laptop for live streaming, fast and stable internet connection)
+    - Live stream each session to online video channels such as YouTube, PeerTube and other local platform if needed.
+    - Edit and publish video recording of each sessions.
+    - Collaborate with marketing to edit and publish short event recap video.
 
 ### Web
+Web team folks are responsible for setting up event website and keeping information on the website up to date. Including main website of the event of the year(<year>.ubucon.asia), Blog(blog.ubucon.asia), Indico system which is used for call for proposals and timetables, event index page(www.ubucon.asia) and more.
 
 ### Travel support
+Assist people across the world to join the event on-site with least difficulties. This includes documenting travel guide to the event location (such as flight information, accommodation info, local travel route, CIQ(Customs, Immigrations(and Visa), Quarantine) and more), Visa invitation support and guidance, Securing accommodation in-advance for event participants. Reviewing travel grant application, approving and assigning granted amount to applicants are also done by people with travel support role in cooperation with sponsorship and finances folks. 
 
-### Logistics
-
-### Facility
+### Logistics & Facility
+People with this role are in charge of getting needed equipments ordered and delivered to on-site on-time. and also installing on-site event infrastructure such as wired/wireless network setup, reception/banners/sponsor booth setup. Getting catering for snacks, tea and meals(lunch/dinner) prepared and Swags deliverd to the venue is also in charge with people with these roles.
