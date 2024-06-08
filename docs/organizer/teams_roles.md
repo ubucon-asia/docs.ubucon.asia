@@ -17,16 +17,27 @@ Coordinate the whole organizing team in general. Usually chair bi-weekly meeting
 ### Sponsorship & Finances
 People in Sponsorship & Financial role are responsible for raising fund for organizing the event and plan event expenses. These includes but not limited to: Designing standard sponsorship programs(sponsorship tiers, packages, pricing), Reaching out potential companies or organizations who might sponsor our event, Make deals and handle sponsorship fee payment process, Draft budget plan and decide where to spend.
 
+Usually, Both Global team and Local team work together to brings sponsors and manage event finances. Global team usually reach out global companies and returning sponsors while Local team usually reach out local business who would be interested to sponsor the event.
+
 ### Content
 People with this role are in charge of making the conference programs schedules. This includes but not limited to:
-- Call for propopsal preparation: Drafting Call for proposal announcement, Preparing proposal submission form, Decide session types(such as talks, workshops, BoFs) and duration for each session types(30min, 90min, 50min), Estimate how many session slots will be available based on sessioin types and available rooms.
-- Gathering speakers: Announcing Call for proposals, Reach out potential speakers, Providing some advises for potential speakers heditating to submit proposals.
-- Review and judge proposals: Review and give scores to submitted proposals from potential speakers, Communicate with proposal submitters whose proposal can be improved with feedbacks, Decide which proposals to accept, reject or pend for backup.
-- Schedule sessions on timetable: Draft conference timetable based on accepted proposals.
-- Get speakers prepared to talk: Communicate with accepted speakers to notify about event schedule, what they will need to prepare for presentation.
-- Moderate tracks: If possible, people from content team are also responsible for moderating tracks on-site.
+    - Call for propopsal preparation: Drafting Call for proposal announcement, Preparing proposal submission form, Decide session types(such as talks, workshops, BoFs) and duration for each session types(30min, 90min, 50min), Estimate how many session slots will be available based on sessioin types and available rooms.
+    - Gathering speakers: Announcing Call for proposals, Reach out potential speakers, Providing some advises for potential speakers heditating to submit proposals.
+    - Review and judge proposals: Review and give scores to submitted proposals from potential speakers, Communicate with proposal submitters whose proposal can be improved with feedbacks, Decide which proposals to accept, reject or pend for backup.
+    - Schedule sessions on timetable: Draft conference timetable based on accepted proposals.
+    - Get speakers prepared to talk: Communicate with accepted speakers to notify about event schedule, what they will need to prepare for presentation.
+    - Moderate tracks: If possible, people from content team are also responsible for moderating tracks on-site.
 
 ### Marketing
+People with marketing role usually work together to spread out the event and bring large number of audiences to the event on-site. Their activities includes but not limited to:
+    - Define target audience for promoting the event of the year
+    - Post announcement and press release on UbuCon Asia and Ubuntu Discourse.
+    - Post promotional content across UbuCon Asia's social media and also local team's social media.
+    - (Local team) Reach out local FOSS, Tech communites and bring them as community partner to promote the event further within local community and bring many audiences.
+    - (Global team) Bring global audiences to the event. By reaching out community leaders of previously hosted locations, global foss project leaders and more.
+    - Reach out press media to promote the event through media to spread the event to much larger audience.
+    - Design promotinal graphics such as news card, on-site posters that would attract potential audiences to join the event.
+    - Design marketing materials such as event logo of the year, swags(stickers, t-shirts), on-site banners and more.
 
 ### Video
 
