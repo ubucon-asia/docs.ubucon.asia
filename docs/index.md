@@ -23,7 +23,7 @@ There are many UbuCons organized annually in diverse region:
     - UbuCon Korea (Since 2023) - Organized by Korean LoCo
     - UbuCon Portugal - Organized by Portugal LoCo
 
-You may visit [Ubucon page on Ubuntu Wiki](https://wiki.ubuntu.com/Ubucon) to see past UbuCons
+You may visit [Ubucon page on Ubuntu Wiki](https://wiki.ubuntu.com/Ubucon) to see past UbuCons. The recently revamped [ubucon.org](https://ubucon.org) website also lists upcoming UbuCon(s) across the world.
 
 ### UbuCon Asia
 
