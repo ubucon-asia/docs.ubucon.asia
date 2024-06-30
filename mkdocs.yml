@@ -26,6 +26,7 @@ nav:
       - organizer/index.md
       - organizer/overview.md
       - organizer/teams_roles.md
+      - organizer/standard_sponsorship.md
 
 plugins:
     - search
