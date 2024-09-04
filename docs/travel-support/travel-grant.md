@@ -102,4 +102,30 @@ Once the application is prepared, please submit it by filing a bug on Launchpad.
 Once you submit your application by filing a bug, The committee will check and review your application. Committee staff may leave comments to ask questions about your application or to provide updates on your application. The committee will also provide review result (either approved or rejected) by leaving a comment. While leaving comments does give you some email notifications, you'll still need to follow up on such notifications and updates.  
 
 ## Claiming your expense (Submitting reimbursement) after the event
-WIP
+
+After the event, you will be informed to submit reimbursement via Open Collective platform. Committe will give you Open Collective profile link. Opening the link will show you profile page like this. Click `Actions` then choose `Submit expense` to start filling out submission form.
+
+![OC profile page](./oc-profile.png)
+
+To continue, select `Reimbursement` as you will be reimbursed for expense you've already made. Then choose payout method. You may choose payout method informatino you've registered before or add new one. For currency, make sure to choose one that matches your bank account.
+
+![OC Expense details](./oc-expense.png)
+
+Next, Fill in expense details. Note that total amount must not exceed the approved amount that you've informed from the committee before. 
+
+- Title: `UCA<YY> Travel Grant LP#<LP Bug ID>`
+  - Example: `UCA24 Travel Grant LP#1234567
+- Tag: `travel grant`
+- Click "Add new receipt" to add one.
+  - For attachment, upload proof of purchase that shows expense details, dates and amount.
+  - For description, enter description of the expense. Such as `Round trip flight for ICN-KUL-JAI`
+  - For date, enter date that payment made which should be stated in the attachment you've added.
+  - For amount, enter the amount you see in the attachment. You may lower the amount if it exceeds approved amount.
+
+![OC Review](./oc-review.png)
+
+On next screen, review your submission details then add launchpad bug URL for your travel grant application to notes.
+Once done and looks all good, click `Submit expense` to submit reimbursement. Committe will review and process your request.
+
+![OC Submit](./oc-submit.png)
+
