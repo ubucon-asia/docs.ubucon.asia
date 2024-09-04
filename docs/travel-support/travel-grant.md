@@ -109,7 +109,7 @@ After the event, you will be informed to submit reimbursement via Open Collectiv
 
 To continue, select `Reimbursement` as you will be reimbursed for expense you've already made. Then choose payout method. You may choose payout method informatino you've registered before or add new one. For currency, make sure to choose one that matches your bank account.
 
-![OC Expense details](./oc-expense.png)
+![OC Payee](./oc-payee.png)
 
 Next, Fill in expense details. Note that total amount must not exceed the approved amount that you've informed from the committee before. 
 
@@ -122,10 +122,12 @@ Next, Fill in expense details. Note that total amount must not exceed the approv
   - For date, enter date that payment made which should be stated in the attachment you've added.
   - For amount, enter the amount you see in the attachment. You may lower the amount if it exceeds approved amount.
 
-![OC Review](./oc-review.png)
+![OC Expense details](./oc-expense.png)
 
 On next screen, review your submission details then add launchpad bug URL for your travel grant application to notes.
 Once done and looks all good, click `Submit expense` to submit reimbursement. Committe will review and process your request.
+
+![OC Review](./oc-review.png)
 
 ![OC Submit](./oc-submit.png)
 

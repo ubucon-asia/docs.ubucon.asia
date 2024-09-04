@@ -9,5 +9,5 @@ We have matrix space, You may join to see our rooms at a glance.
 
 | Purpose | Matrix | Telegram | Note |
 | --- | --- | --- | --- |
-| Participant chat | [Link](https://matrix.to/#/#ubucon-asia-general:matrix.org) | [Link](https://t.me/UbuConAsia) | |
-| Organizer open discussion | [Link](https://matrix.to/#/#ubucon-asia-organizer-discuss:matrix.org) | [Link](https://t.me/UbuConAsiaOrganizersHallway) | Chat room for current, previous organizers and those who interested to join. As well as organizer from other UbuCons in Asia(such as UbuCon Korea)  |
+| Participant chat | [Link](https://matrix.to/#/#ubucon-asia-general:ubuntu.com) | [Link](https://t.me/UbuConAsia) | |
+| Committee chat (Public) | [Link](https://matrix.to/#/#ubucon-asia-cmte:ubuntu.com) | [Link](https://t.me/UbuConAsiaCommittee) | Public room for UbuCon Asia organizers  |
