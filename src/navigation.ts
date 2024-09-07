@@ -9,22 +9,13 @@ export const navigation = [
                 title: "Chat",
                 slug: "/chat",
                 discourseUrl: "t/ubucon-asia-chat-information/47859",
-                subsection: [
-                    {
-                        title: "Chat",
-                        slug: "/sub/sub",
-                        discourseUrl: "t/ubucon-asia-chat-information/47859",
-                        subsection: [
-                        ]
-                    },
-                ]
+                subsection: []
             },
             {
                 title: "Add new page",
                 slug: "/add-new-page",
                 discourseUrl: "t/adding-new-page-to-ubucon-asia-docs/47862",
-                subsection: [
-                ]
+                subsection: []
             }
         ]
     },
