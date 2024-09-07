@@ -1,5 +1,12 @@
+interface NavConfigItem {
+    title: string;
+    slug: string;
+    discourseUrl: string;
+    subsection: NavConfigItem[]
+  }
+
 export const discourseHost = "https://discourse.ubuntu.com/"
-export const navigation = [
+export const navigation: NavConfigItem[] = [
     {
         title: "Home",
         slug: "/",
