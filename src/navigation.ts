@@ -40,9 +40,9 @@ export const navigation = [
         ]
     },
     {
-        title: "LoCo",
-        slug: "/loco",
-        discourseUrl: "t/loco-handover-process/46760/5",
+        title: "Travel support",
+        slug: "/travel-support",
+        discourseUrl: "t/travel-support/47860",
         subsection: [
             {
                 title: "LoCo Sub",
