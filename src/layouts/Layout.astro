@@ -1,0 +1,73 @@
+---
+import Header from "../components/Header.astro";
+import SideNavigation from "../components/SideNavigation.astro";
+import { Config } from "../config";
+import Footer from "../components/Footer.astro";
+import "vanilla-framework/_index.scss";
+import Search from "astro-pagefind/components/Search";
+interface Props {
+	title: string;
+	currentPath: string;
+}
+
+const { title, currentPath } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={Config.sideDesc} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title} | {Config.siteName}</title>
+	</head>
+	<body>
+		<div class="l-docs">
+			<div class="l-docs__header">
+			  <Header currentPath={currentPath}/>
+			  <section id="search-docs" class="p-strip is-bordered is-shallow l-docs__subgrid">
+				<div class="l-docs__sidebar u-hide--medium u-hide--small">
+				</div>
+				<div class="l-docs__main">
+				  <div class="row">
+					<Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+				  </div>
+				</div>
+			  </section>
+			</div>
+		  
+			<SideNavigation currentPath={currentPath}/>
+		  
+			<div class="l-docs__title" id="main-content">
+			  <div class="p-section--shallow">
+				<div class="row">
+				  <div class="col-12">
+					<h1>{title}</h1>
+				  </div>
+				</div>
+			  </div>
+			</div>
+		  
+		  
+			<main class="l-docs__main">
+			  <div class="row">
+				<div class="col-12">
+					<slot/>
+				</div>
+		  
+			  </div>
+			</main>
+		  </div>
+		  
+		  
+		  <div class="l-docs__footer">
+			<Footer/>
+		  </div>
+	</body>
+</html>
+<style lang="scss" is:global>
+	@import "vanilla-framework";
+	@include vanilla;
+</style>

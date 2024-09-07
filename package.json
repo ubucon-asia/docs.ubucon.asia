@@ -1,0 +1,28 @@
+{
+  "name": "discourse-docs-frontend",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "@astrojs/react": "^3.6.2",
+    "@astropub/md": "^1.0.0",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.15.3",
+    "astro-pagefind": "^1.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.4",
+    "vanilla-framework": "^4.15.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.78.0"
+  }
+}

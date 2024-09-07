@@ -1,0 +1,58 @@
+---
+import { navigation } from "../navigation";
+import { Config } from "../config";
+
+interface Props {
+  currentPath: string;
+}
+const navItems = navigation.map(({ slug, title }) => {
+  return {
+    label: title,
+    url: slug,
+  };
+});
+
+const { currentPath } = Astro.props;
+---
+<header id="navigation" class="p-navigation is-dark">
+  <div class="l-docs__subgrid">
+      <div class="l-docs__sidebar">
+          <div class="p-navigation__banner">
+              <div class="p-navigation__tagged-logo">
+                  <a class="p-navigation__link" href="/">
+                      <div class="p-navigation__logo-tag">
+                        <img
+                        class="p-navigation__logo-icon"
+                        src="https://assets.ubuntu.com/v1/82818827-CoF_white.svg"
+                        alt=""
+                      />
+                      </div>
+                      <span class="p-navigation__logo-title">{Config.siteName}</span>
+                  </a>
+              </div>
+              <a href="#navigation" class="p-navigation__toggle--open" title="menu"><i class="p-icon--chevron-down"></i></a>
+              <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu"><i class="p-icon--chevron-up"></i></a>
+          </div>
+      </div>
+      <div class="l-docs__main">
+          <div class="p-navigation__row u-fixed-width">
+              <nav class="p-navigation__nav" aria-label="Example main">
+                  <ul class="p-navigation__items">
+                    {
+                      navItems.map(({ label, url }) => {
+                        const currentTopPath = navItems.find(nav => nav.url.split("/")[1] === currentPath.split("/")[1])?.url ?? "/";
+                        return (
+                        <li class={`p-navigation__item ${currentTopPath === url ? "is-selected" : ""}`}>
+                          <a class="p-navigation__link" href={url}>
+                            {label}
+                          </a>
+                        </li>
+                        )
+                      })
+                    }
+                  </ul>
+              </nav>
+          </div>
+      </div>
+  </div>
+</header>
