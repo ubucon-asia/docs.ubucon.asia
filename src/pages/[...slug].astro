@@ -2,10 +2,13 @@
 import { Markdown } from '@astropub/md'
 import Layout from '../layouts/Layout.astro';
 import { navigation, discourseHost } from "../navigation";
+
+
 export async function getStaticPaths() {
-  let flattenNav = (navigation.reduce((accumulator, current) => accumulator.concat(current.subsection), navigation));
-  flattenNav = (flattenNav.reduce((accumulator, current) => accumulator.concat(current.subsection), navigation));
-  flattenNav = (flattenNav.reduce((accumulator, current) => accumulator.concat(current.subsection), navigation));
+  let subsection1 = navigation.map(item => "subsection" in item? item.subsection : []).flat();
+  let subsection2 = subsection1.map(item => "subsection" in item? item.subsection : []).flat();
+  let subsection3 = subsection2.map(item => "subsection" in item? item.subsection : []).flat();
+  let flattenNav = [...subsection3, ...subsection2, ...subsection1, ...navigation];
   return flattenNav.map(  ({ slug, title, discourseUrl }) => {
     return {
       params: { slug },
