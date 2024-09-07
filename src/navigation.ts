@@ -25,16 +25,10 @@ export const navigation = [
                 ]
             },
             {
-                title: "Sub LoCo2",
-                slug: "/sub2",
-                discourseUrl: "t/loco-handover-process/46760/5",
+                title: "Add new page",
+                slug: "/add-new-page",
+                discourseUrl: "t/adding-new-page-to-ubucon-asia-docs/47862",
                 subsection: [
-                    {
-                        title: "Sub Sub LoCo2",
-                        slug: "/sub2/sub",
-                        discourseUrl: "t/loco-handover-process/46760/5",
-                        subsection: []
-                    },
                 ]
             }
         ]
