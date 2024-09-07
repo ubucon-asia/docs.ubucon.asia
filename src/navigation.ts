@@ -44,6 +44,12 @@ export const navigation: NavConfigItem[] = [
         slug: "/organizer",
         discourseUrl: "t/organizer-documentation/47870",
         subsection: [
+            {
+                title: "Teams & Roles",
+                slug: "/organizer/teams-roles",
+                discourseUrl: "t/teams-roles/47871",
+                subsection: []
+            }
         ]
     }
 ] 
