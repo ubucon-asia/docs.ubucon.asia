@@ -15,11 +15,6 @@ export const navigation = [
                         slug: "/sub/sub",
                         discourseUrl: "t/ubucon-asia-chat-information/47859",
                         subsection: [
-                            {
-                                title: "Sub Sub Sub LoCo",
-                                slug: "/sub/sub/sub",
-                                discourseUrl: "t/loco-handover-process/46760/5"
-                            },
                         ]
                     },
                 ]
@@ -44,13 +39,6 @@ export const navigation = [
                 discourseUrl: "t/travel-grant/47861",
                 subsection: []
             },
-            {
-                title: "LoCo Sub2",
-                slug: "/loco/sub2",
-                discourseUrl: "t/loco-handover-process/46760/5",
-                subsection: []
-            }
-
         ]
     }
 ] 
