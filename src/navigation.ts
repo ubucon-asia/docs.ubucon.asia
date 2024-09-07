@@ -45,9 +45,9 @@ export const navigation = [
         discourseUrl: "t/travel-support/47860",
         subsection: [
             {
-                title: "LoCo Sub",
-                slug: "/loco/sub",
-                discourseUrl: "t/loco-handover-process/46760/5",
+                title: "Travel grant",
+                slug: "/travel-support/travel-grant",
+                discourseUrl: "t/travel-grant/47861",
                 subsection: []
             },
             {
