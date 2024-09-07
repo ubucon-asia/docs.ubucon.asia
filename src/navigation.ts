@@ -38,5 +38,12 @@ export const navigation: NavConfigItem[] = [
                 subsection: []
             },
         ]
+    },
+    {
+        title: "Organizer",
+        slug: "/organizer",
+        discourseUrl: "t/organizer-documentation/47870",
+        subsection: [
+        ]
     }
 ] 
