@@ -4,7 +4,7 @@ export const Config = {
     logo: "",
     favicon: "",
     footer: {
-        copyright: "Copyright &copy; 2023-Present UbuCon Asia Committee",
+        copyright: "Copyright © 2023-Present UbuCon Asia Committee",
         info: "Ubuntu and Canonical are registered trademarks of Canonical Ltd. Contents of this websites are sources from Ubuntu Discourse",
         contactEmail: "contact@ubucon.asia",
         srcRepoLabel: "ubucon-asia/docs.ubucon.asia",
