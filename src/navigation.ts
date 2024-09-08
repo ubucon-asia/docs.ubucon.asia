@@ -54,7 +54,14 @@ export const navigation: NavConfigItem[] = [
         title: "Sponsorship & Finance",
         slug: "/organizer/sponsorship-finance",
         discourseUrl: "t/sponsorship-finance/47888",
-        subsection: [],
+        subsection: [
+          {
+            title: "Standard sponsorship packages",
+            slug: "/organizer/sponsorship-finance/standard-sponsorship",
+            discourseUrl: "t/standard-sponsorship-packages/47890",
+            subsection: [],
+          },
+        ],
       },
     ],
   },
