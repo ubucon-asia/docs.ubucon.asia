@@ -18,7 +18,7 @@ export async function getStaticPaths() {
 }
 
 const { title, discourseUrl, slug } = Astro.props;
-const postData = await fetch(`${discourseHost}${discourseUrl}.json?include_raw=true`);
+const postData = await fetch(`${discourseHost}${discourseUrl}.json`);
 const postJsonData = await postData.json();
 const contentHtmlData = postJsonData.post_stream.posts[0].cooked;
 const postTitle = postJsonData.title;
