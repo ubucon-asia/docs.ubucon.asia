@@ -20,12 +20,12 @@ export async function getStaticPaths() {
 const { title, discourseUrl, slug } = Astro.props;
 const postData = await fetch(`${discourseHost}${discourseUrl}.json?include_raw=true`);
 const postJsonData = await postData.json();
-const markdownData = postJsonData.post_stream.posts[0].raw;
+const contentHtmlData = postJsonData.post_stream.posts[0].coocked;
 const postTitle = postJsonData.title;
 const lastUpdatedAt = postJsonData.post_stream.posts[0].updated_at;
 ---
 <Layout title={postTitle} currentPath={slug}>
-    <Markdown of={markdownData} />
+    <div set:html={contentHtmlData} />
     <div class="p-notification--information is-inline">
       <div class="p-notification__content">
         <p class="p-notification__message">This page was updated at <span class="timedisplay" style="text-decoration: underline">{lastUpdatedAt}</span>. <a href={`${discourseHost}${discourseUrl}`}>Improve this document on Discourse.</a></p>
