@@ -71,7 +71,7 @@ export const navigation: NavConfigItem[] = [
       {
         title: "Registration",
         slug: "/organizer/registration",
-        discourseUrl: "t/registration-check-in/48404"
+        discourseUrl: "t/registration-check-in/48404",
         subsection: [],
       },
       {
