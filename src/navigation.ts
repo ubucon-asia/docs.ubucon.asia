@@ -35,7 +35,14 @@ export const navigation: NavConfigItem[] = [
         title: "Travel grant",
         slug: "/travel-support/travel-grant",
         discourseUrl: "t/travel-grant/47861",
-        subsection: [],
+        subsection: [
+          {
+            title: "Applying for travel grant",
+            slug: "/travel-support/travel-grant/apply",
+            discourseUrl: "t/applying-for-travel-grant/48536"
+            subsection: [],
+          }
+        ],
       },
     ],
   },
