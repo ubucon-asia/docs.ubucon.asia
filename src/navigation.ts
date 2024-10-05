@@ -91,7 +91,14 @@ export const navigation: NavConfigItem[] = [
         title: "Content",
         slug: "/organizer/content",
         discourseUrl: "t/content/48538",
-        subsection: [],
+        subsection: [
+          {
+            title: "Session types and categories",
+            slug: "/organizer/content/types-and-categoreis",
+            discourseUrl: "t/session-types-and-categories/48539",
+            subsection: [],
+          },
+        ],
       },
       {
         title: "Sponsorship & Finance",
